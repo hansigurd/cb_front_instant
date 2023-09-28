@@ -107,11 +107,12 @@ body {
   
   .send-button.enabled {
     border: 0px solid #000;
-    background-color: #64FFD0;
+    background-color: #FFF;
   }
   
   .send-button.enabled:hover {
-    background-color: #00CA98;
+    background-color: #000000;
+    color: #FFF;
   }
   
   .send-button.disabled {
